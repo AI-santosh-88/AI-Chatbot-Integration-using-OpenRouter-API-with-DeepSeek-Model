@@ -20,7 +20,9 @@ It demonstrates how to integrate a large language model (LLM) from OpenRouter's 
 
 # Packages :
 * openai (used here as a stand-in to access OpenRouter; needs to support custom base URLs)
+  
 * Python standard libraries:
+* 
                   * os (for managing environment variables, if used)
                   * requests (if manually calling the API instead of using an OpenAI- compatible client)
    
